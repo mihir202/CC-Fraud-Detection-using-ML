@@ -22,7 +22,7 @@ Programming Language
 Python
 
 Packages
-Anaconda, Graphlab Create Installation guide
+Anaconda
 
 Tools/IDE
 Jupyter notebook (IPython)
