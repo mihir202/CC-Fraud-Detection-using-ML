@@ -2,7 +2,7 @@
 
 Applying a dataset of almost 28,500 credit card transactions(KAGGLE) and multiple unsupervised anomaly detection algorithms, we are working to recognize transactions with a high probability of being credit card fraud.   
 
-In this project, the following two machine learning algorithms:  
+In this project, the following two machine learning algorithms are implemented:  
 
 (A) Local Outlier Factor (LOF)
 
@@ -13,6 +13,10 @@ In this project, the following two machine learning algorithms:
 
 
 Dataset Link - https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+
+
+
 
 Programming Language
 Python
