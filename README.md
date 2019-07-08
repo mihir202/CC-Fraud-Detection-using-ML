@@ -33,6 +33,6 @@ How to use it
 3.	Install necessary packages
 
 Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
+This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms to perform different tasks.
 
 
