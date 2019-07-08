@@ -18,21 +18,22 @@ Dataset Link - https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 
-Programming Language
+Programming Language :-
 Python
 
-Packages
+Packages :-
 Anaconda
 
-Tools/IDE
+Tools/IDE :-
 Jupyter notebook (IPython)
 
-How to use it
+How to use it :-
+
 1.	Fork this repository to have your own copy
 2.	Clone your copy on your local system
 3.	Install necessary packages
 
-Note
+Note :-
 This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms to perform different tasks.
 
 
