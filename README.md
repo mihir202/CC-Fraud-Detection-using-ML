@@ -19,15 +19,12 @@ Dataset Link - https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 Programming Language :-
-
 Python
 
 Packages :-
-
 Anaconda
 
 Tools/IDE :-
-
 Jupyter notebook (IPython)
 
 How to use it :-
